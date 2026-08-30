@@ -1,0 +1,6 @@
+Name,Email,Issue,Service,Urgency,Intent,Buying,Score,Priority
+Alex Carter,alex@example.com,My AC stopped cooling and I need someone to come out today.,HVAC,High,Wants repair,High,9,HOT
+Taylor Smith,taylor@example.com,There is water backing up through my basement drain right now.,Plumbing,High,Wants repair,High,9,HOT
+Casey Brown,casey@example.com,Several outlets in my kitchen stopped working.,Electrical,Medium,Wants repair,High,6,WARM
+Jordan Lee,jordan@example.com,I would like a quote for cleaning a 3-bedroom apartment next month.,Cleaning,Low,Requesting quote,Medium,2,COLD
+Morgan Davis,morgan@example.com,How much does a roof inspection usually cost?,Roofing,Low,Requesting quote,Medium,2,COLD
